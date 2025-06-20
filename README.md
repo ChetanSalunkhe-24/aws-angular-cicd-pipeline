@@ -4,7 +4,7 @@
 - Tools: Selenium | Reflect | Jenkins | AWS | GitHub Actions | Postman | Flutter Testing | Acumatica
 - Love solving real-world QA & deployment challenges
 
-### 🛠 Featured Projects:
+### Featured Projects:
 - [CI/CD for Angular App using Jenkine & Tomcat](https://github.com/ChetanSalunkhe-24/ci-cd-angular-jenkins-tomcat)
 - [CI/CD using AWS Cloud-Native Services](https://github.com/ChetanSalunkhe-24/aws-angular-cicd-pipeline)
 
