@@ -81,13 +81,13 @@ aws-devops-angular-pipeline/
 
 ## Demo & LinkedIn Post
 
-🎥 [Watch My CI/CD Pipeline in Action (LinkedIn)](https://www.linkedin.com/posts/chetan-salunkhe-a84a32196_im-excited-to-share-my-article-on-building-activity-7299814903219953665--Yrm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC4SHoQB00qaZ_Xt44nUb3Y5gkj6bvBSPIM)
+[Watch My CI/CD Pipeline in Action (LinkedIn-Post)](https://www.linkedin.com/posts/chetan-salunkhe-a84a32196_im-excited-to-share-my-article-on-building-activity-7299814903219953665--Yrm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC4SHoQB00qaZ_Xt44nUb3Y5gkj6bvBSPIM)
 
 This post is an walkthrough demonstrates the full deployment process of the Angular application using AWS CodePipeline, CodeBuild, ECR, and ECS.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Chetan Salunkhe**   
 🔗 [LinkedIn](www.linkedin.com/in/chetan-salunkhe-a84a32196)

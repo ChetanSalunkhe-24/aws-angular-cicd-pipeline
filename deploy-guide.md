@@ -76,7 +76,3 @@ Use `infra/task-definition.json` and register it using AWS Console or CLI.
 - Use version tags (`v1`, `v2`) instead of `latest` in production
 - Limit IAM permissions for CodeBuild and ECS roles
 - Monitor ECS metrics using CloudWatch Dashboards
-
----
-
-Need help with IaC (Terraform/CDK/CloudFormation)? Let me know!
